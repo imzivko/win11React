@@ -21,7 +21,7 @@
   "store.ratings": "Évaluations et avis",
   "store.description": "Libellé",
   "camera.take-photo": "Prendre une photo",
-  "oobe.country": "Is this the right country or region?",
-  "oobe.keyboard": "Is this the right keyboard layout or input method?",
-  "oobe.anotherkeyboard": "If you also use another keyboard layout, you can add that next"
+  "oobe.country": "Est-ce le bon pays ou la bonne région ?",
+  "oobe.keyboard": "Est-ce la bonne disposition ou la bonne méthode de saisie du clavier ?",
+  "oobe.anotherkeyboard": "Si vous utilisez également une autre disposition de clavier, vous pouvez ajouter cela par la suite"
 }
